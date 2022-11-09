@@ -1,0 +1,1 @@
+This program allows the categorization of rows in a google sheet, it is designed to categorize an eCommerce production list but can be implemented to categorize any type of data, you create a database sheet where categories are created and mapped and a new tab with matching values is automatically created when the function is run.
